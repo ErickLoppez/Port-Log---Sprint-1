@@ -1,5 +1,15 @@
 # 
 
+[Ejercicio 05]
+
+- Se generó el gráfico de las 10 matrículas más reincidentes.
+- Se generó el gráfico de infracciones por turno.
+- Se generó el gráfico de infracciones por mes.
+- Se generó el histograma del exceso de velocidad real con curva KDE.
+- Se generó el gráfico de exceso promedio por muelle.
+- Se generó la comparación entre fechas válidas e inválidas.
+- Se exportaron los gráficos en formato JPG.
+
 [Ejercicio 04]
 
 - Se definió la clase `PortAnalyzer`.
