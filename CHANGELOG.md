@@ -1,4 +1,11 @@
-# Changelog
+# 
+
+[Ejercicio 04]
+
+- Se definió la clase `PortAnalyzer`.
+- Se encapsuló el DataFrame limpio.
+- Se implementaron métodos para analizar infractores, turnos, excesos de velocidad, muelles y tipos de carga.
+- Se creó una instancia de la clase y se ejecutaron todos los métodos solicitados.
 
 [Ejercicio 03]
 
