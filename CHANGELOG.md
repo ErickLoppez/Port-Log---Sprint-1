@@ -1,5 +1,16 @@
 # Changelog
 
+[Ejercicio 03]
+
+- Se normalizaron fechas y horas.
+- Se calculó la duración de estadía.
+- Se normalizaron matrículas y muelles.
+- Se eliminaron filas con nulos en columnas críticas.
+- Se detectaron y eliminaron outliers mediante IQR.
+- Se calcularon los excesos de velocidad.
+- Se eliminaron los registros sin infracción.
+- Se exportó el dataset limpio y el resumen estadístico.
+
 [Ejercicio 02]
 
 - Se descargó y almacenó el dataset original.
