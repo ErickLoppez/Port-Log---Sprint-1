@@ -1,5 +1,22 @@
 # 
 
+[Ejercicio 07]
+
+- Se redactó la conclusión final del Sprint 1.
+- Se evaluó la calidad del dataset heredado.
+- Se resumieron los principales patrones de infracción.
+- Se analizó el impacto de incorporar datos sin limpieza previa.
+- Se propusieron mejoras para el proceso de captura de datos.
+- Se exportó la conclusión en `reports/conclusion.md`.
+
+[Ejercicio 06]
+
+- Se calculó el porcentaje de infracciones con fecha inválida.
+- Se calculó el porcentaje de infracciones con hora inválida.
+- Se identificó el tipo de carga más frecuente entre las infracciones.
+- Se identificó el origen más frecuente entre los buques infractores.
+- Se calculó la duración promedio de estadía de los buques infractores.
+
 [Ejercicio 05]
 
 - Se generó el gráfico de las 10 matrículas más reincidentes.
