@@ -2,6 +2,14 @@
 
 ## Sprint 2
 
+[Ejercicio 06]
+
+- Se calculó el porcentaje de infracciones con evidencia visual válida.
+- Se analizaron los resultados obtenidos mediante OCR.
+- Se comparó la utilidad de los grupos plates y completes.
+- Se analizaron las condiciones que afectan el reconocimiento de matrículas.
+- Se propusieron mejoras para la captura y asociación de imágenes.
+
 [Ejercicio 05]
 
 - Se contabilizaron las infracciones con y sin imagen asociada.
