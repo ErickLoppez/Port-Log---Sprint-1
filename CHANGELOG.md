@@ -2,6 +2,14 @@
 
 ## Sprint 2
 
+[Ejercicio 05]
+
+- Se contabilizaron las infracciones con y sin imagen asociada.
+- Se determinaron las imágenes sin coincidencia en el dataset.
+- Se calculó el ratio promedio de las coincidencias encontradas.
+- Se comparó la tasa de coincidencias de los grupos plates y completes.
+- Se identificaron las infracciones PENDIENTE sin imagen asociada.
+
 [Ejercicio 04]
 
 - Se aplicó EasyOCR sobre las imágenes originales.
