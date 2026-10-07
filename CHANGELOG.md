@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## Sprint 2
+
+[Ejercicio 01]
+
+- Se creó la rama Sprint_2 a partir de Sprint_1.
+- Se descargó y descomprimió el dataset de imágenes.
+- Se almacenaron las imágenes en data/raw/imgs.
+- Se verificó la disponibilidad de los archivos generados en Sprint 1.
+- Se contabilizaron los registros de los archivos heredados.
+
+## Sprint 1
+
 [Ejercicio 07]
 
 - Se redactó la conclusión final del Sprint 1.
