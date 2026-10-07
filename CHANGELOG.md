@@ -2,6 +2,24 @@
 
 ## Sprint 2
 
+[Ejercicio 04]
+
+- Se aplicó EasyOCR sobre las imágenes originales.
+- Se almacenó el texto detectado en matricula_imagen.
+- Se normalizaron las matrículas conservando solo caracteres alfanuméricos.
+- Se implementó una comparación por posición con umbral mínimo del 75 %.
+- Se asociaron las imágenes con las infracciones correspondientes.
+- Se actualizó group_images.json con los resultados de OCR.
+- Se generó data/processed/port_movements_image.csv.
+
+[Ejercicio 03]
+
+- Se convirtieron las imágenes originales a escala de grises.
+- Se aplicó ecualización de histograma para mejorar el contraste.
+- Se aplicó suavizado gaussiano para reducir ruido.
+- Se aplicó detección de bordes mediante Canny.
+- Se visualizaron muestras de los resultados obtenidos en cada etapa.
+
 [Ejercicio 02]
 
 - Se listaron las imágenes disponibles junto con su tamaño en KB.
