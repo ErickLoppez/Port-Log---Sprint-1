@@ -2,6 +2,15 @@
 
 ## Sprint 2
 
+[Ejercicio 02]
+
+- Se listaron las imágenes disponibles junto con su tamaño en KB.
+- Se separaron las imágenes en los grupos plates y completes.
+- Se construyó el diccionario group_images con los metadatos de cada imagen.
+- Se exportó group_images en data/interim/group_images.json.
+- Se calcularon resolución, área y tamaño promedio para cada grupo.
+- Se implementó la función mostrar_muestra para visualizar imágenes aleatorias.
+
 [Ejercicio 01]
 
 - Se creó la rama Sprint_2 a partir de Sprint_1.
