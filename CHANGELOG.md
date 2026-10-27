@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## Sprint 3
+
+[Ejercicio 01]
+
+- Se creó la rama Sprint_3 a partir de Sprint_2.
+- Se verificó el acceso a los datasets generados en sprints anteriores.
+- Se contabilizaron los registros de cada dataset.
+- Se informó la fecha de última modificación de cada archivo.
+- Se actualizó el README para el Sprint 3.
+
 ## Sprint 2
 
 [Ejercicio 06]
