@@ -2,6 +2,17 @@
 
 ## Sprint 3
 
+[Ejercicio 02]
+
+- Se inicializó DVC en el repositorio.
+- Se configuró Supabase como almacenamiento remoto S3 para DVC.
+- Se migró `data/raw/imgs` desde Git hacia DVC.
+- Se generó `data/raw/imgs.dvc` y se actualizó el archivo `.gitignore`.
+- Se enviaron correctamente las imágenes al almacenamiento remoto configurado en Supabase.
+- Se migró `data/interim/plots` desde Git hacia DVC.
+- Se generó `data/interim/plots.dvc` y se actualizó `data/interim/.gitignore`.
+- Se enviaron correctamente los plots al almacenamiento remoto configurado en Supabase.
+
 [Ejercicio 01]
 
 - Se creó la rama Sprint_3 a partir de Sprint_2.
