@@ -2,6 +2,15 @@
 
 ## Sprint 3
 
+[Ejercicio 05]
+
+- Se creó la base de datos `transito_portuario` con SQLAlchemy.
+- Se generaron automáticamente las tablas del modelo relacional.
+- Se migraron los datos desde `port_movements_image.csv` utilizando `procesar_fila_csv`.
+- Se preservaron los movimientos sin radar informado mediante el identificador técnico `SIN-DATO`.
+- Se validaron 20 buques, 9 radares, 474 movimientos y 93 evidencias.
+
+
 [Ejercicio 04]
 
 - Se implementó el modelo relacional con SQLAlchemy.
