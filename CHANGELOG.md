@@ -2,6 +2,14 @@
 
 ## Sprint 3
 
+[Ejercicio 03]
+
+- Se diseñó el modelo lógico a partir de `port_movements_image.csv`.
+- Se definieron las entidades Buque, Movimiento, Radar y Evidencia.
+- Se establecieron los atributos y cardinalidades del modelo.
+- Se consideró que un radar puede registrar movimientos en distintos muelles.
+
+
 [Ejercicio 02]
 
 - Se inicializó DVC en el repositorio.
