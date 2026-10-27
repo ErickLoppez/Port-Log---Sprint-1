@@ -12,6 +12,10 @@
 - Se migró `data/interim/plots` desde Git hacia DVC.
 - Se generó `data/interim/plots.dvc` y se actualizó `data/interim/.gitignore`.
 - Se enviaron correctamente los plots al almacenamiento remoto configurado en Supabase.
+- Se migró `data/processed/port_movements_image.csv` desde Git hacia DVC.
+- Se generó `data/processed/port_movements_image.csv.dvc` y se actualizó `data/processed/.gitignore`.
+- Se envió correctamente el dataset procesado al almacenamiento remoto configurado en Supabase.
+- Se versionó el dataset procesado con DVC para mantener la trazabilidad de las versiones de datos sin almacenar directamente cada versión completa en Git.
 
 [Ejercicio 01]
 
