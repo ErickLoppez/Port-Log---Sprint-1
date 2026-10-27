@@ -2,6 +2,17 @@
 
 ## Sprint 3
 
+[Ejercicio 04]
+
+- Se implementó el modelo relacional con SQLAlchemy.
+- Se definieron las entidades Buque, Radar, Movimiento y Evidencia.
+- Se incorporaron claves primarias, claves foráneas y relaciones con `relationship`.
+- Se agregaron métodos `__repr__` para mejorar la legibilidad de las instancias.
+- Se implementó la función `procesar_fila_csv`.
+- Se validó correctamente la relación entre movimiento, buque, radar y evidencia.
+- Se contempló el radar como dispositivo móvil, asociando el muelle al movimiento.
+
+
 [Ejercicio 03]
 
 - Se diseñó el modelo lógico a partir de `port_movements_image.csv`.
