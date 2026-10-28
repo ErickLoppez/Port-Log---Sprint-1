@@ -2,6 +2,18 @@
 
 ## Sprint 3
 
+[Ejercicio 06]
+
+- Se implementaron consultas SQLAlchemy sobre la base de datos relacional.
+- Se obtuvo el top 10 de buques con mayor cantidad de infracciones.
+- Se identificaron los 10 movimientos más recientes sin evidencia asociada.
+- Se analizaron los radares más activos y la cantidad de muelles distintos en los que operaron.
+- Se obtuvo el top 10 de buques reincidentes durante el período 2024-01-01 a 2024-12-31.
+- Se calculó el exceso promedio de velocidad por muelle.
+- Se calculó la cobertura de evidencia visual sobre el total de infracciones.
+- La cobertura visual obtenida fue de 93 infracciones con imagen sobre 474 totales, equivalente al 19.62%.
+
+
 [Ejercicio 05]
 
 - Se creó la base de datos `transito_portuario` con SQLAlchemy.
