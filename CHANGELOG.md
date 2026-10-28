@@ -2,6 +2,15 @@
 
 ## Sprint 3
 
+[Ejercicio 09]
+
+- Se redactó una conclusión integradora de los tres sprints.
+- Se describió el problema resuelto por el sistema de extremo a extremo.
+- Se analizaron las ventajas de la búsqueda vectorial con OpenCLIP frente al uso exclusivo de OCR.
+- Se identificaron las principales limitaciones actuales del sistema.
+- Se plantearon mejoras necesarias para una posible implementación real en el Puerto de Rosario.
+
+
 [Ejercicio 08]
 
 - Se implementó la función `buscar_buque_por_imagen`.
