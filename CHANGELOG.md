@@ -2,6 +2,17 @@
 
 ## Sprint 3
 
+[Ejercicio 08]
+
+- Se implementó la función `buscar_buque_por_imagen`.
+- Se generó el embedding de la imagen de consulta utilizando OpenCLIP.
+- Se consultó la base vectorial `buque_vectorial` para obtener el buque más similar.
+- Se recuperó la información completa del buque desde la base relacional mediante SQLAlchemy.
+- Se incluyeron todos los movimientos del buque y sus evidencias asociadas.
+- Se validó correctamente la búsqueda utilizando una imagen `complete`.
+- Se contempló el caso de consulta con una imagen `plate`, indicando que el resultado puede no ser confiable porque la base vectorial fue construida únicamente con imágenes `complete`.
+
+
 [Ejercicio 07]
 
 - Se creó la base de datos vectorial `buque_vectorial` con ChromaDB.
