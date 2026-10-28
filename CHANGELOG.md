@@ -2,6 +2,16 @@
 
 ## Sprint 3
 
+[Ejercicio 07]
+
+- Se creó la base de datos vectorial `buque_vectorial` con ChromaDB.
+- Se cargó el modelo OpenCLIP para generar embeddings de imágenes.
+- Se seleccionó una imagen `complete` por buque, conservando la de mayor ratio de coincidencia cuando había más de una.
+- Se utilizaron las matrículas de los buques como identificadores en la colección vectorial.
+- Se generaron y almacenaron embeddings para 16 buques con imagen `complete` asociada.
+- Se validó una cobertura vectorial del 80.00% respecto de los 20 buques de la base relacional.
+
+
 [Ejercicio 06]
 
 - Se implementaron consultas SQLAlchemy sobre la base de datos relacional.
